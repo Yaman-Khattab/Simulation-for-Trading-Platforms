@@ -14,3 +14,5 @@
 # Notes: 
 # step 5,6,7 are for activating the real time mode for real time prices
 # if redis server didn't work, try this command: "sudo service redis-server stop" then run step 5
+
+# LSTM and KNN are deep learning models, ARIMA is a time series model and they are all used to predict the future prices
