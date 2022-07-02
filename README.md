@@ -1,6 +1,7 @@
 # TradeOpedia
 
  to run the code you have to follow the following steps:
+ 
  1- Make sure you have Linux operating System (you can download Virtual Machine for ease of use)
  
  2- There is a file in TradeOpedia called "venv". It is a virtual environment that can be accessed by typing the command: source venv/bin/activate
